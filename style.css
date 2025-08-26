@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'OpenSansBold';
+  src: url(fonts/OpenSans-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSansThin';
+  src: url(fonts/OpenSans-Light.ttf) format('truetype');
+}
+
+body {
+
+}
+
+header p {
+margin: 116px 80px 0px 80px;
+text-transform: uppercase;
+font-family: OpenSansBold;
+color: #E1624F;
+}
+
+header h1 {
+  margin: 0px 80px 40px 80px;
+  font-family: OpenSansBold;
+}
+
+#HEADERIMG {
+  display: block;
+  margin: auto;
+  margin-bottom: 24px;
+  border-radius: 28px;
+}
+
+figcaption {
+  font-style: italic;
+  margin: 0px 80px 44px 80px;
+  font-family: OpenSansThin;
+  text-align: center;
+  font-size: 16px;  
+}
+
+hr {
+  width: 1120px;
+}
+
+#minit1 {
+  text-transform: uppercase;
+  margin: 64px 80px 2px 80px;
+  font-family: OpenSansBold;
+  color: #E1624F;
+}
+
+#titulo h1 {
+  margin: 0px 80px 8px 80px;
+  font-family: OpenSansBold;
+}
+
+#descricao {
+  margin: 0px 80px 64px 80px;
+  font-family: OpenSansThin;
+}
+
+#section1img {
+  margin: 0px 80px 20px 80px;
+  border-radius: 28px;
+}
+
+#section1 h1{
+  margin: 0px 80px 4px 80px;
+  font-family: OpenSansBold;
+  font-size: 16px;
+}
+
+#section1 p {
+  margin: 0px 80px 48px 80px;
+  font-family: OpenSansThin;
+}
+
+#hist {
+  color: #0C51A7;
+}
+
+#bold {
+  font-family: OpenSansBold;
+}
+
+#section2img {
+  margin: 0px 80px 20px 80px;
+  border-radius: 28px;
+}
+
+#section2 h1{
+  margin: 0px 80px 4px 80px;
+  font-family: OpenSansBold;
+}
+
+#section2 p {
+  margin: 0px 80px 48px 80px;
+  font-family: OpenSansThin;
+}
+
+#section3img {
+  margin: 0px 80px 20px 80px;
+  border-radius: 28px;
+}
+
+#section3 h1{
+  font-family: OpenSansBold;
+  margin: 0px 80px 4px 80px;
+}
+
+#section3 p {
+  margin: 0px 80px 40px 80px;
+  font-family: OpenSansThin;
+}
+
+#casais {
+  color: #591B98;
+}
+
+#family {
+  color: #E5245E;
+}
+
+#orcamento {
+  color: #E95E10;
+}
+
+#hrfinal {
+  width: 1270px;
+  margin-bottom: 40px;
+}
+
+#conclusao p {
+  margin: 0px 80px 80px 80px ;
+  text-align: center;
+  font-family: OpenSansThin;
+}
