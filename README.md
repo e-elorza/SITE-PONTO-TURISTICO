@@ -5,6 +5,8 @@ Este repositório contém um website desenvolvido por mim como parte de um **est
 O site apresenta um **ponto turístico** escolhido por mim e mostra as **melhores atividades para fazer no local**, com foco em design, estrutura semântica e responsividade.
 
 ---
+  <img src="" alt="">
+---
 
 ## ✨ Funcionalidades
 
@@ -29,8 +31,4 @@ Este projeto foi feito **para fins de estudo**, com foco em reforçar conceitos 
 
 ---
 
-## 📸 Prévia
 
-(Adicione aqui um link ou imagem de demonstração do site, se quiser)
-
----
